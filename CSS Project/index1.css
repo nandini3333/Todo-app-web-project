@@ -1,0 +1,148 @@
+
+.container1{
+    opacity:0.2;
+    filter:blur(100%);
+    border:2px solid rgb(19, 15, 15);
+}
+  
+section{
+    background-color: #F7F7F7;
+}
+
+span{
+    color: #00A5EC;
+}
+h1{
+    height:30px;
+    background-color: white;
+    margin-left: 110px;
+    
+}
+
+i{
+    color:#00A5EC;
+    font-size: 35px;
+    top: 146px;
+    margin: 10px 10px 10px 1027px;
+
+}
+
+.crossmark{
+    font-size: 20px;
+    margin-left:220px;
+}
+
+.new{
+    color:#424242 ;
+    font: normal normal normal 20px/22px Inter ;
+    margin: 5px 10px 10px 5px;
+    
+}
+
+.flexcontainer{
+    display:flex;
+    flex-flow: row wrap;
+    align-content:space-between;
+    margin: 15px 100px 0px 100px;
+    opacity: 1;
+
+}
+ 
+.childs{
+    width: 250px;
+    height: 250px;
+    border: 1px solid #EDEDED;
+    background-color:white;
+    border-radius: 10px;
+    color: #C2C2C2;
+    text-align: left;
+    padding: 20px 0px 0px 20px;
+    margin: 7px;
+    line-height: 40px;   
+}
+.trip{
+    color:#00A5EC;
+    font: normal normal medium 20px/24px Inter;
+  }
+
+.vi{
+    text-decoration: line-through;
+    color:#C2C2C2;
+}
+
+
+.text{
+    height: 160px;
+    width:350px;
+    border:1px solid #EDEDED;
+    background-color: white;
+    margin: auto;
+    line-height:40px ;
+    position: absolute;
+    top: 250px;
+    left:450px ;
+    padding:20px 5px 0px 10px;
+    border-radius: 10px;
+    line-height:10px;
+    font-weight: bold;
+    z-index: +2;
+}
+
+button{
+    width:120px;
+    height:30px;
+    background-color: #00A5EC ;
+    float:right;
+    border-color:#00A5EC ;
+    color: white;
+    padding-top: 5px 0px 5px 0px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border-color: #00A5EC;
+    
+}
+
+input[type="text"]{
+    width:330px;
+    height:30px;
+    background-color: #F7F7F7;
+    border-color: #EDEDED;
+    border: 10px;
+}
+
+i{
+    font-size: 20px;
+}
+/* 
+.overlay{
+    position: fixed;
+    display:none;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgb(0,0,0);
+    background:rgba(0,0,0,0.5);
+    color: #f1f1f1;
+    height:100%;
+    width:100%;
+    opacity:0;
+    z-index:4;
+    transition: .5s ease;
+}
+/* .container2{
+    position:relative;
+    width:100%;
+    height:100%;
+} */
+
+.black{
+    background:black;
+    position: relative;
+    top:0;
+    left:0;
+    opacity:0.2;
+    height:100%;
+    width:100%;
+    z-index:+1;
+} */

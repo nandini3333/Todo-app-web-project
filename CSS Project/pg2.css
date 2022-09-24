@@ -1,0 +1,43 @@
+.text{
+    height: 160px;
+    width:350px;
+    border:1px solid #EDEDED;
+    margin: auto;
+    line-height:40px ;
+    margin-top: 200px;
+    padding:8px;
+    border-radius: 10px;
+    line-height: 40px;
+    font-weight: bold;
+    z-index: +1;
+}
+
+button{
+    width:120px;
+    height:30px;
+    background-color: #00A5EC ;
+    float:right;
+    border-color:#00A5EC ;
+    color: white;
+    padding-top: 5px 0px 5px 0px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border-color: #00A5EC;
+    
+}
+
+input[type="text"]{
+    width:330px;
+    height:30px;
+    background-color: #F7F7F7;
+    border-color: #EDEDED;
+    border: 10px;
+}
+
+i{
+    font-size: 20px;
+    margin-left:220px;
+}
+
+
+
