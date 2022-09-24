@@ -90,6 +90,7 @@ a{
     border-radius: 10px;
     line-height: 40px;
     font-weight: bold;
+    text-decoration: none;
     z-index: +2;
 }
 
